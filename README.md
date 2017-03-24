@@ -1,0 +1,2 @@
+# coastal-flooding
+This repository contains JAGS code for statistical models of coastal landowners' behavioral intentions from: Field CR, Dayer AA, Elphick CS. How will social factors influence the effectiveness of common conservation strategies for facilitating ecosystem migration? (in review), and Field CR, Dayer AA, Elphick CS. Measuring the effectiveness of messaging for influencing conservation attitudes and behaviors: ecosystem services vs. species-species conservation. (in prep.)
